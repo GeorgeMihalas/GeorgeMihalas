@@ -34,6 +34,14 @@ Professor and researcher in Medical Informatics and Artificial Intelligence in M
 - Long-standing contributor to European and international initiatives in medical informatics education, research, and professional development
 - Coordinator of the EFMI Time Capsule project - 2026, created to mark the 50th anniversary of the Federation and to preserve a record of the field for future generations
 - Active participant in international academic networks, conferences, editorial activities, and collaborative projects
+
+  ## Teaching and educational initiatives
+
+- Introduced and developed medical informatics education in the medical curriculum in Romania
+- Initiated and coordinated courses in Artificial Intelligence in Medicine for medical students, residents, doctoral students, and healthcare professionals
+- Developed interdisciplinary teaching models integrating medical informatics, clinical applications, ethics, and artificial intelligence
+- Created educational materials and practical learning activities for the responsible use of AI in medicine
+- Contributed to national and international discussions on competencies and curriculum development in biomedical and health informatics
   
 ## Academic profile
 
