@@ -6,13 +6,18 @@ This page presents a selected list of publications, organized by research field.
 
 ### Books and educational volumes
 - [![Cover of Textbook](images/books/2026_05_cov_Textbook_AI in Health_eBook-Arad.png)]
+<br>
+<img src="images/books/2026_05_cov_Textbook_AI in Health_eBook-Arad.png"
+     alt="Cover of Textbook"
+     width="180">
+ <br>    
 - *Mihalas GI. Textbook of Artificial Intelligence in Health. Foundations, Medical Applications, and Responsible Use. Vasile Goldis University Press, Arad, Romania. 2026. eISBN: 978-630-6728-62-6, https://editura.uvvg.ro/shop/cursuri/textbook-of-artificial-intelligence-in-health-foundations-medical-applications-and-responsible-use-ebook/ *
 
 <br>
 <a href="https://www.researchgate.net/publication/394091288_Inteligenta_Artificiala_in_Medicina_Ghid_de_conversatie_pentru_medici_studenti_si_pacienti">
   <img src="images/books/2025_07_cov-Ghid-conv_mihalas-r.jpg"
        alt="Cover of Textbook"
-       width="150">
+       width="180">
 </a>
 <br>
 
