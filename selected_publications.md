@@ -15,8 +15,6 @@ This page presents a selected list of publications, organized by research field.
   
 ### Journal articles
 
-
-
 ## Medical Informatics and Health Informatics
 
 ### Books and edited volumes
