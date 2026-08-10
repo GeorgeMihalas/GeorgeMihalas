@@ -52,7 +52,7 @@ Professor and researcher in Medical Informatics and Artificial Intelligence in M
 - *Mihalas GI, Goje D, Crăciun A, Lighezan D: Beyond Sequential Teaching: A Concurrent Model for AI in Medicine. MIE 2026 Genova, 25-28 May 2026. Stud. Health Technol.Inform. vol.336, 2180-2184, doi: https://doi.org/10.3233/SHTI260647*
   
 - Selected publications on medical informatics education, biomedical modeling, and AI in medicine
-[View a more detailed list of publications](selected_publications.md)
+[View a more detailed list of publications](https://georgemihalas.github.io/publications.html)
 
 ## Academic profile
 
